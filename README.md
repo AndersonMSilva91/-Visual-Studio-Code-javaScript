@@ -1,4 +1,4 @@
-# -Visual-Studio-Code-javaScript
+# Visual-Studio-Code-javaScript
 atividades 
 
 1)Defina o que seria uma linguagem de programação e descreva as principais características?
